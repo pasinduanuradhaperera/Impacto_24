@@ -57,3 +57,9 @@ Please see the [CONTRIBUTION](CONTRIBUTION.md) file for details on contributing 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Additional
+### additional codes and things in this folder [Additional](Additional)
+   - service file for run the program on startup [autoScript](/Additonal/autoScript.service)
+   - encoder file for identifies backwards and forwards running [encoder](/Additonal/encoder.py)
+   - some previous codes for take some idea ! [prev](/Additonal/prev/)

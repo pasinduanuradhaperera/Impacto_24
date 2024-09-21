@@ -1,0 +1,14 @@
+[Unit]
+Description=game code running
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash -c "source /home/<your python3 environment path>/bin/activate && python3 /home/<your game.py path>/game.py"
+Restart=on-abort
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
