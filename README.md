@@ -1,5 +1,7 @@
 # Aruco Marker Detection and Robotic Navigation System
 
+<img src="/images/Raspberry_Pi-Logo.wine.svg" alt="raspi"  height="50">
+<img src="/images/opencv.svg" alt="opencv"  height="50">
 <img src="/images/ArUco-markers-with-different-matrix-sizes-4x4-5x5-6x6-7x7-matrices.ppm" alt="aruco marckers"  height="50">
 
 ## Overview
