@@ -53,7 +53,7 @@ Once the game starts, the robot will begin detecting markers and navigating the 
 - The robot will detect markers, adjust its path, and calibrate itself based on the marker's position.
 
 ## Contributing
-Please see the [CONTRIBUTION.md](CONTRIBUTION.md) file for details on contributing to this project.
+Please see the [CONTRIBUTION](CONTRIBUTION.md) file for details on contributing to this project.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
