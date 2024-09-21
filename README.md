@@ -1,5 +1,7 @@
 # Aruco Marker Detection and Robotic Navigation System
 
+<img src="/images/ArUco-markers-with-different-matrix-sizes-4x4-5x5-6x6-7x7-matrices.ppm" alt="aruco marckers" width="50" height="50">
+
 ## Overview
 This project is an advanced robotic navigation system designed to detect and track Aruco markers in an environment. It utilizes a combination of computer vision, sensor calibration, and motor control to autonomously navigate through the arena, detecting markers, measuring distances, and correcting its path.
 
@@ -43,7 +45,7 @@ This project is an advanced robotic navigation system designed to detect and tra
 3. Run the game:
     make sure all the files in a one folder run on that folder
     ```bash
-    python game.py
+    python3 game.py
     ```
 
 ### Usage
